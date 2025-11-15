@@ -1,4 +1,0 @@
-myserver
-nextcord
-requests
-httpx
