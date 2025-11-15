@@ -1,3 +1,0 @@
-myserver
-nextcord
-requests
