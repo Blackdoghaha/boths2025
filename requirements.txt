@@ -1,0 +1,4 @@
+myserver
+nextcord
+requests
+httpx
